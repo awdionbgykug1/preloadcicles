@@ -1,0 +1,8 @@
+background: rgba(255, 159, 243, .5);
+background: rgba(254, 202, 87, .5);
+background: rgba(255, 107, 107, .5);
+background: rgba(72, 219, 251, .5);
+background: rgba(29, 209, 161, .5);
+background: rgba(0, 210, 211, .5);
+background: rgba(95, 39, 205, .5);
+background: rgba(87, 101, 116, .5);
